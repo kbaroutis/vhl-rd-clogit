@@ -2,7 +2,7 @@
 #!/usr/bin/env python3
 """
 Univariate conditional logistic regression on the 14 triplets
-using strata_vhl_10.csv with the NEW column names.
+using strata_vhl_10.csv
 
 Outcome   : case (1 = retinal detachment, 0 = control)
 Stratum   : match_id
